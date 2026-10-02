@@ -372,3 +372,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <p align="center">
   <strong>Made with ❤️ using Next.js + React</strong>
 </p>
+---
+
+## 👨‍💻 Built by
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
